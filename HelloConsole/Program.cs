@@ -6,7 +6,6 @@ namespace HelloConsole
     {
         static void Main(string[] args)
         {
-
             Console.WriteLine("Asif Sawrar here!!!");
         }
     }
